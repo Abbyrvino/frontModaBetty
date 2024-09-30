@@ -49,7 +49,7 @@ const productos = [
         id: 7
       },
       {
-        nombre: "Par de Saco y Vestido Color Jade Claro",
+        nombre: "Traje de 2 Piezas para Dama Corte Princesa",
         precio: 59.9,
         imagen: "m_08",
         categoria_id: 1,
@@ -98,72 +98,72 @@ const productos = [
         id: 14
       },
       {
-        nombre: "Paquete de 3 donas de Chocolate",
+        nombre: "Conjunto Jardinerito",
         precio: 39.9,
-        imagen: "donas_01",
+        imagen: "ne_01",
         categoria_id: 4,
         id: 15
       },
       {
-        nombre: "Paquete de 3 donas Glaseadas",
+        nombre: "Conjunto Jardinerito Azulado",
         precio: 39.9,
-        imagen: "donas_02",
+        imagen: "ne_02",
         categoria_id: 4,
         id: 16
       },
       {
-        nombre: "Dona de Fresa ",
+        nombre: "Conjunto de 3 piezas Cuadriculado ",
         precio: 19.9,
-        imagen: "donas_03",
+        imagen: "ne_03",
         categoria_id: 4,
         id: 17
       },
       {
-        nombre: "Dona con Galleta de Chocolate ",
+        nombre: "Conjunto Pijama Futbolito ",
         precio: 19.9,
-        imagen: "donas_04",
+        imagen: "ne_04",
         categoria_id: 4,
         id: 18
       },
       {
-        nombre: "Dona glass con Chispas Sabor Fresa ",
+        nombre: "Conjunto Deportivo Verde lechuga ",
         precio: 19.9,
-        imagen: "donas_05",
+        imagen: "ne_05",
         categoria_id: 4,
         id: 19
       },
       {
-        nombre: "Dona glass con Chocolate ",
+        nombre: "Conjunto Playero de las bahamas ",
         precio: 19.9,
-        imagen: "donas_06",
+        imagen: "ne_06",
         categoria_id: 4,
         id: 20
       },
       {
-        nombre: "Dona de Chocolate con MÁS Chocolate ",
+        nombre: "Conjunto Pijama Hola Seca ",
         precio: 19.9,
-        imagen: "donas_07",
+        imagen: "ne_07",
         categoria_id: 4,
         id: 21
       },
       {
-        nombre: "Paquete de 3 donas de Chocolate ",
+        nombre: "Conjunto Pijama Azul Pastel ",
         precio: 39.9,
-        imagen: "donas_08",
+        imagen: "ne_08",
         categoria_id: 4,
         id: 22
       },
       {
-        nombre: "Paquete de 3 donas con Vainilla y Chocolate ",
+        nombre: "Conjunto Deportivo Rojo",
         precio: 39.9,
-        imagen: "donas_09",
+        imagen: "ne_09",
         categoria_id: 4,
         id: 23
       },
       {
-        nombre: "Paquete de 6 Donas",
+        nombre: "Conjunto Deportivo Mickey Mouse",
         precio: 69.9,
-        imagen: "donas_10",
+        imagen: "ne_10",
         categoria_id: 4,
         id: 24
       },
@@ -252,7 +252,7 @@ const productos = [
         id: 36
       },
       {
-        nombre: "Polera Vice City_03",
+        nombre: "Polera Vice City",
         precio: 59.9,
         imagen: "Polera Vice City_03",
         categoria_id: 2,
@@ -287,9 +287,9 @@ const productos = [
         id: 41
       },
       {
-        nombre: "Paquete 2 Hot Dogs",
+        nombre: "Camisa Cuello Cadete",
         precio: 69.9,
-        imagen: "hamburguesas_08",
+        imagen: "camisa_08",
         categoria_id: 2,
         id: 42
       },
@@ -336,65 +336,65 @@ const productos = [
         id: 48
       },
       {
-        nombre: "Pizza Spicy con Doble Queso",
+        nombre: "Cojunto de 2 piezas Turquesa",
         precio: 69.9,
-        imagen: "pizzas_01",
+        imagen: "na_01",
         categoria_id: 3,
         id: 49
       },
       {
-        nombre: "Pizza Jamón y Queso",
+        nombre: "Conjunto de 2 piezas Chicle",
         precio: 69.9,
-        imagen: "pizzas_02",
+        imagen: "na_02",
         categoria_id: 3,
         id: 50
       },
       {
-        nombre: "Pizza Doble Queso",
+        nombre: "Vestido Azul Marino",
         precio: 69.9,
-        imagen: "pizzas_03",
+        imagen: "na_03",
         categoria_id: 3,
         id: 51
       },
       {
-        nombre: "Pizza Especial de la Casa",
+        nombre: "Conjunto de 2 piezas Palo de Rosa",
         precio: 69.9,
-        imagen: "pizzas_04",
+        imagen: "na_04",
         categoria_id: 3,
         id: 52
       },
       {
-        nombre: "Pizza Chorizo",
+        nombre: "Vestido Coquette Azul Pastel",
         precio: 69.9,
-        imagen: "pizzas_05",
+        imagen: "na_05",
         categoria_id: 3,
         id: 53
       },
       {
-        nombre: "Pizza Hawaiana",
+        nombre: "Conjunto Pijama Salmon",
         precio: 69.9,
-        imagen: "pizzas_06",
+        imagen: "na_06",
         categoria_id: 3,
         id: 54
       },
       {
-        nombre: "Pizza Tocino",
+        nombre: "Conjunto Pijama Noche de Luna",
         precio: 69.9,
-        imagen: "pizzas_07",
+        imagen: "na_07",
         categoria_id: 3,
         id: 55
       },
       {
-        nombre: "Pizza Vegetales y Queso",
+        nombre: "Conjunto Bailarina",
         precio: 69.9,
-        imagen: "pizzas_08",
+        imagen: "na_08",
         categoria_id: 3,
         id: 56
       },
       {
-        nombre: "Pizza Pepperoni y Queso",
+        nombre: "Conjunto Pijama Unicornio",
         precio: 69.9,
-        imagen: "pizzas_09",
+        imagen: "na_09",
         categoria_id: 3,
         id: 57
       },
