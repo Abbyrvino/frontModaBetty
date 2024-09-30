@@ -43,7 +43,7 @@ export default function Resumen() {
 
             <p className="text-xl mt-10">
                 Total: {''}
-                {formatearDinero(total)} {/* Formatear el total usando la función */}
+                {formatearDinero(total)} {/* Formatear el total usando la función y mas abajo cambio el color de fondo de confirmar pedido bg-indigo-100 */}
             </p>
 
             <form
@@ -54,7 +54,7 @@ export default function Resumen() {
                     <input
                         type="submit"
                         className={`${comprobarPedido() ? 
-                            'bg-indigo-100' : 
+                            'bg-indigo-400' : 
                             'bg-indigo-600 hover:bg-indigo-800'} 
                             px-5 py-2 rounded uppercase font-bold text-white text-center w-full cursor-pointer`}
                         value="Confirmar Pedido"

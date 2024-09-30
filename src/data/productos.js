@@ -168,72 +168,72 @@ const productos = [
         id: 24
       },
       {
-        nombre: "Paquete de 3 Variadas",
+        nombre: "Conjunto de Verano",
         precio: 39.9,
-        imagen: "donas_11",
+        imagen: "ne_11",
         categoria_id: 4,
         id: 25
       },
       {
-        nombre: "Dona Natural con Chocolate",
+        nombre: "Conjunto de 2 piezas de camisa y pantalón de cuello redondo de color liso",
         precio: 19.9,
-        imagen: "donas_12",
+        imagen: "ne_12",
         categoria_id: 4,
         id: 26
       },
       {
-        nombre: "Paquete de 3 Donas de Chocolate con Chispas",
+        nombre: "Traje de baño Cocodrilo",
         precio: 39.9,
-        imagen: "donas_13",
+        imagen: "ne_13",
         categoria_id: 4,
         id: 27
       },
       {
-        nombre: "Dona Chocolate y Coco",
+        nombre: "Conjuntos de ropa Happy",
         precio: 19.9,
-        imagen: "donas_14",
+        imagen: "ne_14",
         categoria_id: 4,
         id: 28
       },
       {
-        nombre: "Paquete Galletas de Chocolate",
+        nombre: "Conjunto Sudadera con Capucha Tommy",
         precio: 29.9,
-        imagen: "galletas_01",
+        imagen: "p_01",
         categoria_id: 6,
         id: 29
       },
       {
-        nombre: "Paquete Galletas de Chocolate y Avena",
+        nombre: "Blusa Liso de manga larga holgada",
         precio: 39.9,
-        imagen: "galletas_02",
+        imagen: "p_02",
         categoria_id: 6,
         id: 30
       },
       {
-        nombre: "Paquete de Muffins de Vainilla",
+        nombre: "Mini Vestido de Mezclilla",
         precio: 39.9,
-        imagen: "galletas_03",
+        imagen: "p_03",
         categoria_id: 6,
         id: 31
       },
       {
-        nombre: "Paquete de 4 Galletas de Avena",
+        nombre: "Falda delgada de gamuza sintética de cintura alta",
         precio: 24.9,
-        imagen: "galletas_04",
+        imagen: "p_04",
         categoria_id: 6,
         id: 32
       },
       {
-        nombre: "Galletas de Mantequilla Variadas",
+        nombre: "Chaqueta bomber ligera con cremallera y Cuello alto",
         precio: 39.9,
-        imagen: "galletas_05",
+        imagen: "p_05",
         categoria_id: 6,
         id: 33
       },
       {
-        nombre: "Galletas de sabores frutales",
+        nombre: "Pantalones cortos holgados ",
         precio: 39.9,
-        imagen: "galletas_06",
+        imagen: "p_06",
         categoria_id: 6,
         id: 34
       },
@@ -294,44 +294,44 @@ const productos = [
         id: 42
       },
       {
-        nombre: "4 Rebanadas de Pay de Queso",
+        nombre: "Vestido Gotico Vino",
         precio: 69.9,
-        imagen: "pastel_01",
+        imagen: "a_01",
         categoria_id: 5,
         id: 43
       },
       {
-        nombre: "Waffle Especial",
+        nombre: "Camiseta corta con Cuello Redondo",
         precio: 49.9,
-        imagen: "pastel_02",
+        imagen: "a_02",
         categoria_id: 5,
         id: 44
       },
       {
-        nombre: "Croissants De la casa",
+        nombre: "Camisseta Gotica",
         precio: 39.9,
-        imagen: "pastel_03",
+        imagen: "a_03",
         categoria_id: 5,
         id: 45
       },
       {
-        nombre: "Pay de Queso",
+        nombre: "Camiseta con Estampado de Calavera",
         precio: 19.9,
-        imagen: "pastel_04",
+        imagen: "a_04",
         categoria_id: 5,
         id: 46
       },
       {
-        nombre: "Pastel de Chocolate",
+        nombre: "Pantalón holgado de cintura alta elástica",
         precio: 29.9,
-        imagen: "pastel_05",
+        imagen: "a_05",
         categoria_id: 5,
         id: 47
       },
       {
-        nombre: "Rebanada Pastel de Chocolate",
+        nombre: "Pantalón Cargo Frances",
         precio: 29.9,
-        imagen: "pastel_06",
+        imagen: "a_06",
         categoria_id: 5,
         id: 48
       },
@@ -399,16 +399,16 @@ const productos = [
         id: 57
       },
       {
-        nombre: "Pizza Aceitunas y Queso",
+        nombre: "Conjunto de tres piezas de otoño e invierno de estilo delicado",
         precio: 69.9,
-        imagen: "pizzas_10",
+        imagen: "na_10",
         categoria_id: 3,
         id: 58
       },
       {
-        nombre: "Pizza Queso, Jamón y Champiñones",
+        nombre: "Nuevo estilo Conjunto de 2 Piezas",
         precio: 69.9,
-        imagen: "pizzas_11",
+        imagen: "na_11",
         categoria_id: 3,
         id: 59
       }

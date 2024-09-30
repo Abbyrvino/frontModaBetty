@@ -159,7 +159,7 @@ const Navbar = ({ title }) => {
       </div>
 
       {/* Aquí agregamos el botón Ver Catálogo */}
-      <Link to="/productos" className="ml-4 px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded">
+      <Link to="/productos" className="ml-4 px-4 py-2 bg-neutral-400 hover:neutral-200 text-white rounded">
         Ver Catálogo
       </Link>
 

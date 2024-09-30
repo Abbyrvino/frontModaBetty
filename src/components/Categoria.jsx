@@ -9,7 +9,7 @@ export default function Categoria({ categoria }) {
     }  */}
     return (
         <button/* "bg-white" aca cambio los colores de las categorias}*/
-          className={`${categoriaActual.id === id ? "bg-amber-400" : "bg-white"} flex items-center gap-4 border w-full p-3 hover:bg-amber-600 cursor-pointer my-4`}/*m= margen, y = eje y,-#=el tamaña en und tailwin ,1= 4 pix*/
+          className={`${categoriaActual.id === id ? "bg-neutral-400" : "bg-white"} flex items-center gap-4 border w-full p-3 hover:bg-neutral-200 cursor-pointer my-4`}/*m= margen, y = eje y,-#=el tamaña en und tailwin ,1= 4 pix*/
           type="button"
           onClick={() => handleClickCategoria(id)}
         >
