@@ -112,10 +112,10 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 
 const ProductosList = () => {
-    const [productos, setProductos] = useState([]);
+    const [productos, setProductos] = useState([]); 
 
     useEffect(() => {
-        // Obtener productos del backend
+        // Obtener productos del backend en este lugar
         const fetchProductos = async () => {
             try {
                 const response = await axios.get('https://backmoda-ia82.onrender.com/');
