@@ -3,7 +3,7 @@ import axios from "axios";
 /* https://prueba-379813.rj.r.appspot.com */
 
 const api = axios.create({
-    baseURL: 'http://localhost:8080'
+    baseURL: 'https://backmoda-ia82.onrender.com/'
 })
 
 const getIpAddress = async () => {

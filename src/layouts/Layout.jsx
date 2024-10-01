@@ -37,7 +37,7 @@ export default function Layout() {
         <div className="md:flex">
             <Sider/>
 
-            <main className='flex-1 h-screen sm:overflow-y-scroll bg-neutral-100 p-3'>{/*aca el el fondo del medio de los productos*/}
+            <main className='flex-1 h-screen sm:overflow-y-scroll bg-neutral-200 p-3'>{/*aca el el fondo del medio de los productos*/}
             <Outlet/>
             </main>
             <Resumen/>

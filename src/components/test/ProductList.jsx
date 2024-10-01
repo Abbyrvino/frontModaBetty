@@ -118,7 +118,7 @@ const ProductosList = () => {
         // Obtener productos del backend
         const fetchProductos = async () => {
             try {
-                const response = await axios.get('http://localhost:8080/producto/all');
+                const response = await axios.get('https://backmoda-ia82.onrender.com/');
                 setProductos(response.data);
             } catch (error) {
                 console.error('Error al obtener los productos:', error);

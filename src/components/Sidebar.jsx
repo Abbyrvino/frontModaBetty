@@ -13,7 +13,7 @@ const SidebarItem = ({ icon: Icon, label, items, section, expanded, toggleExpand
         {expanded && (
             <ul className="ml-4 mt-2">
                 {items.map((item, index) => (
-                    <li key={index} className="mb-2 rounded hover:shadow hover:bg-teal-700 py-2">
+                    <li key={index} className="mb-2 rounded hover:shadow hover:bg-teal-700 py-2">{/*color de Navegacion en sub color*/}
                         {item.onClick ? (
                             <div className="px-3 h-full flex items-center cursor-pointer" onClick={item.onClick}>
                                 {item.label}
@@ -58,11 +58,11 @@ const Sidebar = () => {
         }));
     };
 
-    return (
-        <div className='w-full bg-teal-900 component-over-scroll'>
+    return (               
+        <div className='w-full bg-neutral-900 component-over-scroll'>{/*cambio de color todo el lado izquierdo donde dice opciones*/}
             <hr />
             <div>
-                <h1 className="font-pacifico text-2xl text-amber-500 font-bold text-center">OPCIONES</h1>
+                <h1 className="font-pacifico text-2xl text-neutral-100 font-bold text-center">OPCIONES</h1>{/*cambio el color de la letra de opciones */}
             </div>
             <hr />
             <ul className="mt-3 text-white font-bold">
